@@ -147,9 +147,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
-  background-color: var(--bs-body-bg);
-  -webkit-text-size-adjust: 100%;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background-color: #a75512; /* Beige: combina bien con negro y naranja */
 }
 
  h3, .h3, h2, .h2, h1, .h1 {
